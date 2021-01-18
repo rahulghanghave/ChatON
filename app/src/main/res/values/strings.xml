@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ChatON</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="rahul_ghanghave">Rahul Ghanghave</string>
+    <string name="textview">TextView</string>
+    <string name="_12_30pm">12:30pm</string>
+
+</resources>
